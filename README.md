@@ -1,6 +1,8 @@
 # Mines
 Simple Mine Plugin, you'll need to setup the sql database.
 
+Create a database called "mines" then execute:
+
 ```
 CREATE TABLE `userdata` (
   `uuid` text NOT NULL,
