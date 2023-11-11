@@ -1,0 +1,10 @@
+name: Mines
+version: '${version}'
+main: org.ipav.mines.Main
+api-version: '1.20'
+authors: [ipav]
+description: Mines Plugin
+commands:
+  mine:
+    description: Edit your mine's settings!
+    usage: /<command> <action>
